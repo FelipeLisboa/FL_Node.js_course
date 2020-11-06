@@ -1,0 +1,26 @@
+{
+    "name": "fl_node.js_course",
+    "version": "1.0.0",
+    "description": "Este es una aplicación por línea de comandos ",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FelipeLisboa/FL_Node.js_course.git"
+    },
+    "author": "Felipe Lisboa",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/FelipeLisboa/FL_Node.js_course/issues"
+    },
+    "homepage": "https://github.com/FelipeLisboa/FL_Node.js_course#readme",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "yargs": "^16.1.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    }
+}
